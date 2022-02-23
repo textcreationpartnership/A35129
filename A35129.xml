@@ -1,0 +1,163 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An epistle to young people professing the truth</title>
+            <author>Crook, John, 1617-1699.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1686</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A35129</idno>
+            <idno type="STC">Wing C7210</idno>
+            <idno type="STC">ESTC R29663</idno>
+            <idno type="EEBO-CITATION">11191411</idno>
+            <idno type="OCLC">ocm 11191411</idno>
+            <idno type="VID">46628</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A35129)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 46628)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1439:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An epistle to young people professing the truth</title>
+                  <author>Crook, John, 1617-1699.</author>
+               </titleStmt>
+               <extent>7 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1686.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed: John Crook.</note>
+                  <note>Dated at end: Laton, the 18th of the 6th month 1686.</note>
+                  <note>Reproduction of the original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Pastoral letters and charges.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:46628:1"/>
+            <pb n="1" facs="tcp:46628:1" rendition="simple:additions"/>
+            <head>AN EPISTLE TO <hi>Young People</hi> Profeſſing the TRUTH.</head>
+            <opener>
+               <salute>Dear Friends,</salute>
+            </opener>
+            <p>KNowing that many which fear the Lord, and think upon his Name, have had (for ſome time) a con<g ref="char:EOLhyphen"/>cern upon their minds for the declining Conditi<g ref="char:EOLhyphen"/>ons of many Young People that are amongſt us; ſaying often one to another, <hi>What will become of the next Generation, conſidering the Youth of this are ſo degenerated from thoſe that received the Truth at the beginning.</hi> Whereupon it came into my Heart, according to the Ex<g ref="char:EOLhyphen"/>amples of Chriſt and his Apoſtle, who to rectifie abuſes in Marriage, and other things, ſaith, <hi>[but it was not ſo from the beginning]</hi> intima<g ref="char:EOLhyphen"/>ting, that the beſt way to amend things amiſs, is to bring People to the beginning, that as they received Chriſt Jeſus the Lord, ſo to walk in him, which is the Drift and End of this Epiſtle to Young People, and others profeſſing the Truth.</p>
+            <p>Many are yet alive who from their own knowledge can teſtifie the
+<pb n="2" facs="tcp:46628:2"/>Humility, Mortification and Self-Denyal of the Youth at the begin<g ref="char:EOLhyphen"/>ning, together with their centempt of all youthful Vanities, <hi>&amp;c.</hi> their Words Few and Savory, their Countenances Grave and Serious, in their places Diligent and Faithful; being Examples of Temperance and Sobriety to Neighbours and Acquaintance; in the Worſhip and Service of God Attentive and Watchful, carefully improving all op<g ref="char:EOLhyphen"/>portunities to encreaſe their Communion and Acquintance with God in Chriſt Jeſus the Light: All which were as bleſſed ſignes of thoſe times of refreſhment from Gods Preſence that the Souls of the Faith<g ref="char:EOLhyphen"/>ful were then made partakers of.</p>
+            <p>Let Children inquire of their Parents (that were Eye Witneſſes from the beginning) and they can tell them; let Servants ask their faithful Maſters, and they can inform them what manner of People the younger ſort of Quakers (ſo called) were at the beginning: Nay, there were few ſuch Strangers in the places where the Truth firſt took place, but they could declare theſe things; by all which (as in a Glaſs) many now profeſſing the ſame Truth may ſee themſelves bearing ano<g ref="char:EOLhyphen"/>ther Image; therefore ought diligently to make inquiry what is the Cauſe, and whence the diſparity ariſeth, for if the Goſpel at the be<g ref="char:EOLhyphen"/>ginning proved it ſelf to be preached again by the forementioned, and many more bleſſed Effects upon all that received the Truth in the love of it; What is the matter? is not the Goſpel an Everlaſting Goſpel and Chriſt the Way, the Truth and the Life, the ſame Yeſterday to Day and forever? and doth not his works ſtill in the hearts of the Called, Choſen and Faithful bear witneſs of him?</p>
+            <p>Therefore, its to be feared, thoſe that are thus fallen, have received another Goſpel, or the Goſpel perverted, or turned upſide down, as the Apoſtle ſpeaks, ſeeing thoſe at the beginning began in the Spirit, but ſince that many that began well think to be made perfect by the Fleſh, where too many hold the Truth in unrighteouſneſs: But my deſign is not to accuſe, but to inform thoſe that are out of the way, if poſſi<g ref="char:EOLhyphen"/>ble they may be reclaimed before the evil day overtake them.</p>
+            <p>I know ſome of the Younger are ready to blame the Elder, and ſome Children their Parents, and ſome Servants their Maſters Exam<g ref="char:EOLhyphen"/>ples; to all which I ſay, that ſuch as are juſtly guilty thereof ſhall bear their own Barden, and ſhall not eſcape the Righteous Judgment of God; but you that make this Plea, <hi>know that the Soul that ſins ſhall dye,</hi> and the Witneſs of God in your own Conſciences (if hearkened unto) will convince you of the vanity of this Fig-leaf Covering, and the de<g ref="char:EOLhyphen"/>ceitfulneſs
+<pb n="3" facs="tcp:46628:2"/>of your own hearts in thinking that the evil example of others will be an excuſe for your backſliding.</p>
+            <p>For thoſe that in their Youth received the Truth at the beginning, were ſurrounded with Evil Examples on every hand, ſo that if Exam<g ref="char:EOLhyphen"/>ples could have prevailed to continue them in Worldly Vanities, they could never have broken through thoſe oppoſitions from Accquain<g ref="char:EOLhyphen"/>tance and neareſt Relations; for if they had looked outward, all hopes of Preferment in this World were wholy gone, and looking inward, there appeared ſuch ſtrong holds of <hi>Sathan,</hi> as ſeemed impoſſible ever to be overcome; the Truth it ſelf being ſuch a Stranger in the Earth, that almoſt every Body was backward to give it Entertainment, Eſpe<g ref="char:EOLhyphen"/>cially if they had any thing in this World to looſe for harbouring of it.</p>
+            <p>Whereas the Youth and others of latter times found the Truth both ready proved, and ſuccesfully defended againſt the ſubtil Argu<g ref="char:EOLhyphen"/>ments &amp; Wits of thoſe profeſſing times in which it at firſt break forth, and that not by the might and power of Wit, or outward Learning, but by Simplicity and Godly Sincerity, accompanied with Holineſs of Life and Converſation, which was a great confirmation to the firſt publiſhing of it, together with the Meek and Patient, yet Bold and Valiant ſuffering the loſs of all for the Truth as it is in Jeſus; by which, in a great meaſure, the rough way was worn ſmooth, and the paſſage made much more eaſie to thoſe that followed, then it was at the beginning; for thoſe that were as gazing ſtocks at the beginning, of latter times came to be well known, and that eſtrangedneſs to Perſons and Principles came to vaniſh away, &amp; a good eſteem of the Truth and of thoſe that profeſt it ſpring up in divers Perſons, ſo mightily grew the Word of God, and proſpered at the beginning.</p>
+            <p>But alas, of latter times the wild <hi>Boar</hi> of the Forreſt hath got into the Vineyard, and rooted up many hopeful Plants, &amp; others are fallen into the World, Cuſtoms, Ways and Faſhions, who are become as Spots in the true Chriſtian Aſſemblies, and Blemiſhes to the Truth as it was at the beginning, as if the Sins of <hi>Sodom,</hi> which were Pride, Careleſneſs, Exceſs and Contempt of the Poor, were become the Vices of <hi>Sion,</hi> many young People and others getting into thoſe things again, which their Parents, Relations and Acquaintances, for good Conſcience ſake, were forced to lay aſide, as it in theſe latter times the Efficacy of Truth was not the ſame as at the beginning, and as if the Croſs of Chriſt, that was ſo powerful [then] was [now] become of none Effect.</p>
+            <pb n="4" facs="tcp:46628:3"/>
+            <p> Little doth the wanton Youth of this Age think what Sighs and Tears their godly Parents, and Friends that love them, pour out in ſecret for them, both becauſe of their Eternal Eſtates hereafter, and the diſhonour they bring here unto the bleſſed Name and Truth of God; whereby its become a ſaying amongſt Antient People, <hi>That the Quakers now adayes are not like thoſe at the beginning.</hi>
+            </p>
+            <p>What Watchfulneſs, what Carefulneſs, what Diligence therefore ought every one to uſe, leaſt by bad Company and Examples, they ſhould be enſnared before they are aware, and ſo by degrees be drawn to ſuch Inconveniences, as afterward they will find very hard to with<g ref="char:EOLhyphen"/>ſtand, untill they are brought to that degree of ſtupidity, and hardneſs of heart, that all Exhortations unto Virtue and Godlineſs find ſo little entertainment, that even Strangers in our Meetings are more ſerious, and tenderneſs of heart ſooner procured in them, then in many who have frequented our Aſſemblies from their Childhood unto Men and Womens Eſtates, ſo evil and catching are the bad Examples of others to them whoſe hearts are not kept tender to God.</p>
+            <p>Be ſerious therefore all you that make profeſſion of the Truth in your tender years, and examine your ſelves how you came to make profeſſion of it, was it for ſome by-ends and ſiniſter reſpects? or was it by Education from your Parents or others only? not regarding the good intention and end thereof, ſo as to come to the root of the mat<g ref="char:EOLhyphen"/>ter in your ſelves, nor heeding to be guided by the Light in your own Conſciences, but from time to time feeding only upon good words from others, <hi>&amp;c.</hi> as its to be feared too too many do at at this day, I ſay, unto all ſuch careleſs ones, I pity your Condition, for all your Goodneſs will prove like the morning dew that ſoon vaniſheth when heat ariſeth, and all your Profeſſion will wither like the Corn upon the houſe top; therefore let the time paſt ſuffice that you have ſpent your precious time to no purpoſe, and reſt no longer in an eaſeful mind, above the Croſs, but ſink down in deep Humility to the oppreſſed Seed of God in you, which he hath left as a Witneſs for himſelf, that you might not be as <hi>Sodom,</hi> and like unto <hi>Gomorrah,</hi> if you diligently hearken to it in your own particulars.</p>
+            <p>Parents and others that fear the Lord are bound in duty to God, to uſe all means they can to impreſs the tender minds of their Children, and Youth, with the ſence of Gods Power, and in ſo doing they ſhall not looſe their reward from God, although their Children when grown up, turn their backs upon it; for Parents at the beginning looked upon
+<pb n="5" facs="tcp:46628:3"/>the Truth as the beſt Portion for their Children, not ſo much heeding their preferment in this World, if by any means they might have an intereſt in that which is to come; and in order thereunto they councel<g ref="char:EOLhyphen"/>led their Children to mind the inward and ſpiritual Grace, that ſo they might not relie upon any outward and viſible thing for Preſervation and Defence, becauſe that inward and ſpiritual Grace was commend<g ref="char:EOLhyphen"/>ed to us at the beginning, as the beſt Teacher <hi>to deny <g ref="char:V">Ʋ</g>ngodlineſs and Worldly Luſts, and to live Godly, Righteouſly and Soberly in this preſent Evil Werld;</hi> but if Young People will reject the good advice of their Parents and others, and degenerate from their Education, their De<g ref="char:EOLhyphen"/>ſtruction will be of themſelues, and their poor grieving Parents and others can but mourn in ſecret for them,</p>
+            <p>Children and others ought to know, that there is no ſtanding at a ſtay or ſtop in Religion, <hi>for not to go forward therein, is to go backward;</hi> hence it is is that the Scripture ſaith, <hi>Heb.</hi> 6. <hi>It is impoſſible for thoſe who were once enlightened, and have taſted of the heavenly gift, and were partakers of the holy Ghoſt, and have taſted the good word of God, and the po<g ref="char:EOLhyphen"/>wers of the World to come, if they ſhall fall away, to renew them again unto Repentance, ſeeing they crucifie to themſelves the Son of God afreſh, and put him to open ſhame.</hi> And being a buſineſs of greateſt Importance the Apoſtle urgeth it from the Similitude following, <hi>For,</hi> ſaith he, <hi>the Earth which drinketh in the Rain that cometh oft upon it, and bringeth forth Hearbs meet for them for whom it is Dreſſed, receiveth Bleſſings from God; but that which beareth Thorns and Bryars is rejected, and is nigh unto Cur<g ref="char:EOLhyphen"/>ſing, whoſe end is to be Burnt.</hi>
+            </p>
+            <p>If there be therefore any Conſolation in Chriſt the Truth, if any Comfort of Love, if any Fellowſhip of the Spirit, if any Bowels of Mercies, you that live careleſsly and want only upon the Earth, conſi<g ref="char:EOLhyphen"/>der your Conditions, and examine your ſelves, how far the fore-menti<g ref="char:EOLhyphen"/>oned Scripture affects you, for I have a deep concern upon my heart for you all that have forſaken your firſt Love, and bear another Image then thoſe young People I have mentioned bore at the beginning.</p>
+            <p>Suppoſe by your Conformity to the Vanities of this preſen<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> World you ſhould gain a large ſhare therein, which but few obtain; what will it avail when terrifying Death looks you in the Face? have you forgotten <hi>Moſes</hi>'s Choice, who eſteemed it greater Riches to ſuffer Afflictions with the People of God, then to be related to the Court of a great Monarch? what ſhall I ſay to prevail with you, is it not great pity, that any who in years paſt bore the frowns of the great ones of the
+<pb n="6" facs="tcp:46628:4"/>Earth Patiently, went through Reproaches Cheerfully, and many Hardſhips Conſtantly, for ſome time, and doubtleſs ſuch felt a Re<g ref="char:EOLhyphen"/>ward from God for their encouragement, why then ſhould you looſe your Crown at laſt?</p>
+            <p>Come let us reaſon together; and let God Witneſs ſpeak, Wanted you any thing while you kept your Integrity? did you not witneſs one day in Gods preſence better then all the delights that ever you had ſince your minds by Looſeneſs and Vanities hath been eſtranged from him? did your Pleaſure and Companions in Folly ever afford you that Comfort, and inward Contentment, and Peace, which ſome<g ref="char:EOLhyphen"/>times you have felt amongſt Gods People? why then do you deprive your ſelves by your negligence of that Sweetneſs and Comfort which no created Enjoyment can recompence the loſs of, beſides that farther hope of Glory that is layd up for thoſe that walk uprightly?</p>
+            <p>Many of the youthful People and others amongſt us need not ſay <hi>What is Truth?</hi> becauſe I know it hath often proved it ſelf to their Conſciences beyond all outward demonſtration, and they cannot be ignorant how divers that have backſliden have been followed with a ſecret hand againſt them in all they have gone about.</p>
+            <p>Come away therefore and tarry no longer in Lying Vanities, and let none ſay they cannot leave them, for that is the Language of your Souls Enemy to diſcourage you; wherefore reſiſt him ſtedfaſtly in the Faith, and he will fly from you, for he hath no power but in Darkneſs and Unbelief; watch therefore to the Light of Chriſt Jeſus that diſ<g ref="char:EOLhyphen"/>covers all the twiſtings of that croked Serpent, and take up the daily Croſs to thoſe Evils that ſo eaſely <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſet you, and you will find, as you have often heard, the Armour of Light at hand to defend you againſt all your youthful Luſts, as bleſſed be God there are yet a Cloud of Witneſſes alive that can from good Experience teſtifie the ſame.</p>
+         </div>
+         <div type="postscript">
+            <pb n="7" facs="tcp:46628:4"/>
+            <head>Poſtſcript.</head>
+            <p>LEt none deſpiſe theſe Lines for their Plainneſs, for we were a plain People at the beginning; I know ſome of the younger ſort are apt to be taken with fine Words and faſhionable Lan<g ref="char:EOLhyphen"/>guage, as with other things in Faſhion; but Experience ſhews that that which tickles the outward Ear commonly ſtops there, very ſel<g ref="char:EOLhyphen"/>dom coming ſo low as to the Truth in the inward parts; therefore this Epiſtle is ſent abroad in ſo plain a dreſs on purpoſe, anſwerable to a plain Seed in them that are puft up, but ought rather to have mourned; which Seed being reached, and their Souls relieved my end is anſwered.</p>
+            <closer>
+               <dateline>Laton <date>the 18th of the 6th Month 1686.</date>
+               </dateline>
+               <signed>John Crook</signed>
+            </closer>
+         </div>
+         <trailer>THE END.</trailer>
+      </body>
+   </text>
+</TEI>
